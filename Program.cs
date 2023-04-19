@@ -35,9 +35,11 @@
             {
                 break;
             }
+
         }
 
-        Console.WriteLine("Thanks for playing!");
+            Console.WriteLine("Thanks for playing!");
+
     }
 
     static void PlayGame(int maxNumber)
